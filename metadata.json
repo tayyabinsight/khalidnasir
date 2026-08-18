@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Express — Khalid Nasir",
+  "description": "Premium cinematic animated landing page demo for Pakistan Express (Khalid Nasir) luxury intercity transportation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
